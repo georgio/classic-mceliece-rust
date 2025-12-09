@@ -26,7 +26,6 @@ Line wrap the file at 100 chars.                                              Th
 - Updated the `rand` crate to 0.9
 - Updated Rust edition to 2024
 - refactor: updated calls to `rand` in order to match Rust 2024 conventions
-- Updated the `zeroize` crate to 1.8
 
 ## [3.1.0] - 2025-02-21
 ### Changed
